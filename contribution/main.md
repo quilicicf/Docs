@@ -21,6 +21,7 @@ Any contribution is welcome, here are a few contribution guide lines:
     - :arrow_up: `:arrow_up:` when upgrading dependencies
     - :arrow_down: `:arrow_down:` when downgrading dependencies
   1. Better code
+    - :wrench: `:wrench:` when improving the tooling
     - :art: `:art:` when improving the format/structure of the code
     - :shower: `:shower:` when removing code or files
     - :white_check_mark: `:white_check_mark:` when adding tests
