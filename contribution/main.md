@@ -9,6 +9,7 @@ Any contribution is welcome, here are a few contribution guide lines:
 1. Use the following emojis to signal what's in your commit. Again, two emojis probably means there should be two commits.
   1. Features
     - :new: `:new:` when adding a feature
+    - :up: `:up:` when improving a feature
   1. Docs
     - :memo: `:memo:` when writing docs
     - :calendar: `:calendar:` when writing specs/roadmap
