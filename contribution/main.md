@@ -23,7 +23,7 @@ Any contribution is welcome, here are a few contribution guide lines:
     - :arrow_down: `:arrow_down:` when downgrading dependencies
   1. Better code
     - :wrench: `:wrench:` when improving the tooling
-    - :triangular_ruler: `:art:` when improving the format/structure of the code
+    - :triangular_ruler: `:triangular_ruler:` when improving the format/structure of the code
     - :art: `:art:` when improving styling
     - :shower: `:shower:` when removing code or files
     - :white_check_mark: `:white_check_mark:` when adding tests
