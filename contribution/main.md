@@ -26,11 +26,12 @@ Any contribution is welcome, here are a few contribution guide lines:
     - :triangular_ruler: `:triangular_ruler:` when improving the format/structure of the code
     - :art: `:art:` when improving styling
     - :shower: `:shower:` when removing code or files
-    - :white_check_mark: `:white_check_mark:` when adding tests
+    - :white_check_mark: `:white_check_mark:` when adding/improving tests
     - :lock: `:lock:` when dealing with security
     - :shirt: `:shirt:` when removing linter warnings
     - :racehorse: `:racehorse:` when improving performance
     - :non-potable_water: `:non-potable_water:` when plugging memory leaks
+    - :eyes: `:eyes:` when processing code-review comments
 
 ### Work flow
 
