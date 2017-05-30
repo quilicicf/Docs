@@ -12,7 +12,7 @@ Any contribution is welcome, here are a few contribution guide lines:
       - :up: `:up:` when improving a feature
   1. Docs
       - :memo: `:memo:` when writing docs
-      - :calendar: `:calendar:` when writing specs/roadmap
+      - :calendar: `:calendar:` when planning something (specs/roadmap/TODO)
   1. Fixing
       - :green_heart: `:green_heart:` when fixing the CI build
       - :penguin: `:penguin:` when fixing something on Linux
