@@ -32,8 +32,9 @@ Any contribution is welcome, here are a few contribution guide lines:
       - :racehorse: `:racehorse:` when improving performance
       - :non-potable_water: `:non-potable_water:` when plugging memory leaks
       - :eyes: `:eyes:` when processing code-review comments
-  1. Chores
+  1. Extras
       - :construction: `:construction:` when bumping versions ans such
+      - :bar_chart: `:bar_chart:` when improving usage statistics gathering
 
 ### Work flow
 
