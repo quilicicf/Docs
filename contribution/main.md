@@ -35,6 +35,7 @@ Any contribution is welcome, here are a few contribution guide lines:
   1. Extras
       - :construction: `:construction:` when bumping versions ans such
       - :bar_chart: `:bar_chart:` when improving usage statistics gathering
+      - :umbrella: `:umbrella:` when improving security
 
 ### Work flow
 
