@@ -36,6 +36,7 @@ Any contribution is welcome, here are a few contribution guide lines:
       - :construction: `:construction:` when bumping versions ans such
       - :bar_chart: `:bar_chart:` when improving usage statistics gathering
       - :umbrella: `:umbrella:` when improving security
+      - :mute: `:mute:` when removing notifications/logs
 
 ### Work flow
 
