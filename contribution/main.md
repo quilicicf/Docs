@@ -27,7 +27,6 @@ Any contribution is welcome, here are a few contribution guide lines:
       - :art: `:art:` when improving styling
       - :shower: `:shower:` when removing code or files
       - :white_check_mark: `:white_check_mark:` when adding/improving tests
-      - :lock: `:lock:` when dealing with security
       - :shirt: `:shirt:` when removing linter warnings
       - :racehorse: `:racehorse:` when improving performance
       - :non-potable_water: `:non-potable_water:` when plugging memory leaks
@@ -37,6 +36,7 @@ Any contribution is welcome, here are a few contribution guide lines:
       - :bar_chart: `:bar_chart:` when improving usage statistics gathering
       - :umbrella: `:umbrella:` when improving security
       - :mute: `:mute:` when removing notifications/logs
+      - :sound: `:sound:` when adding notifications/logs
 
 ### Work flow
 
