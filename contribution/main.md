@@ -21,6 +21,7 @@ Any contribution is welcome, here are a few contribution guide lines:
       - :bug: `:bug:` when fixing a bug
       - :arrow_up: `:arrow_up:` when upgrading dependencies
       - :arrow_down: `:arrow_down:` when downgrading dependencies
+      - :lock: `:lock:` when improving security
   1. Better code
       - :wrench: `:wrench:` when improving the tooling
       - :triangular_ruler: `:triangular_ruler:` when improving the format/structure of the code
